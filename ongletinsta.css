@@ -47,11 +47,11 @@
 }
 
 .insta .label:hover {
-    color: black;
+    color: #999999;
 }
 
 .insta .label:active {
-    border-top: 1px solid black;
+    border-top: 1px solid #999999;
 }
 
 .input:focus + .label {
@@ -59,8 +59,8 @@
 }
 
 .input:checked + .label {
-    color: black;
-    border-top: 1px solid black;
+    color: #999999;
+    border-top: 1px solid #999999;
 }
 
 .insta .panel {
