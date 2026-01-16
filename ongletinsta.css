@@ -1,6 +1,5 @@
 .tabs::before {
     content: "";
-    display: block;   /* ← LA LIGNE CRUCIALE */
     width: 445px;
     height: 25px;
     background-size: cover;
